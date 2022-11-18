@@ -4,7 +4,7 @@ Data analysis of data captured for the Utah Avlanche Center and supporting non f
 
 ## List of publications and presentations
 Rider Uniter Program. Integrating technology, numbers, headcounts, and messaging. Travis Morrison, Francine Mullen, and Craig Gordon. Utah Snow and Avalanche Workshop
-General Session Day 3 Nov. 11, 2021; 6:00 PM - 9:00 PM.
+General Session Day 3 Nov. 11, 2021; 6:00 PM - 9:00 PM. Please see: https://vimeo.com/639508253 where presentation starts at 2:09:00
 
 Quantifying environmental warning signs and human behavior for the deadly 2020-2021 avalanche season in the Central Wasatch, Utah C. Mullen, F., Morrison, T., Carrol, D., Digel, P., London, A., Phillippe, C., Gordon. The Avalanche Review 40 (1), 28-31.
 
